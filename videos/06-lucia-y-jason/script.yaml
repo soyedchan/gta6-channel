@@ -1,0 +1,87 @@
+seed: 6
+publish: "Jueves 19/11 · 17:00"
+meta:
+  title: "Lucía y Jason: QUIÉNES SON los protagonistas de GTA 6 (y el resto de personajes) — SIN SPOILERS"
+  description: |
+    Te presento a Lucía Caminos y Jason Duval, la pareja protagonista de GTA 6, y a los personajes secundarios que Rockstar enseñó antes del lanzamiento: Cal Hampton, Boobie Ike, Dre'Quan Priest, Real Dimez, Raul Bautista y Brian Heder. Solo con información oficial previa al lanzamiento, sin spoilers de la historia.
+  tags: [gta 6 personajes, lucia gta 6, jason gta 6, lucia caminos, jason duval, gta 6 protagonistas, gta 6 historia, gta 6 sin spoilers, cal hampton, boobie ike, gta 6 bonnie y clyde, gta 6 trailer 2, gta 6, gta vi]
+  hashtags: ["#GTA6", "#Lucia", "#Jason"]
+  pinned: "¿Con quién vas a jugar más, Lucía o Jason? 👇"
+  endscreen: "El mapa de GTA 6 explicado: todas las zonas de Leonida"
+thumb: {big: "¿QUIÉNES SON?", tag: "GTA 6 · PROTAGONISTAS", sticker: "SIN SPOILERS", bg: "city"}
+sources:
+  - "Rockstar Games — web oficial de Grand Theft Auto VI, sección de personajes (mayo 2025)"
+  - "Rockstar Games — Tráiler 1 (diciembre 2023) y Tráiler 2 (mayo 2025)"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Sin spoilers"
+    title: "LUCÍA Y JASON"
+    subtitle: "Quiénes son los protagonistas de GTA 6"
+    say:
+      - "Por primera vez en un GTA de la era moderna, la historia gira alrededor de una pareja."
+      - "Te presento a Lucía y a Jason, y al resto de personajes, solo con lo que Rockstar enseñó antes del lanzamiento. Cero spoilers de la historia."
+  - type: profile
+    chapter: "Lucía Caminos"
+    kicker: "Protagonista"
+    name: "Lucía Caminos"
+    color: [255, 46, 136]
+    traits: ["Aprendió a pelear de su padre", "Pasó por la penitenciaría de Leonida", "Salió por pura suerte", "Ahora: solo jugadas inteligentes"]
+    say:
+      - "Empezamos por Lucía Caminos, la cara del primer tráiler."
+      - "Según la web oficial, su padre le enseñó a pelear casi antes de que aprendiera a andar."
+      - "Luchar por su familia la llevó a la penitenciaría de Leonida."
+      - "Salió de allí por pura suerte."
+      - "Y ha aprendido la lección: a partir de ahora, solo movimientos inteligentes."
+  - type: profile
+    chapter: "Jason Duval"
+    kicker: "Protagonista"
+    name: "Jason Duval"
+    color: [40, 230, 255]
+    traits: ["Quiere una vida tranquila", "Creció rodeado de estafadores", "Pasó por el ejército", "Trabaja para traficantes en los Keys"]
+    say:
+      - "Y él es Jason Duval."
+      - "Jason quiere una vida fácil, pero las cosas no paran de complicarse."
+      - "Creció rodeado de timadores y delincuentes."
+      - "Intentó dejar atrás una adolescencia problemática pasando por el ejército."
+      - "Y ha acabado en los Leonida Keys haciendo lo que mejor sabe: trabajar para traficantes locales."
+  - type: quote
+    chapter: "La pareja"
+    label: "La pareja"
+    text: "Un golpe que debía ser sencillo los arrastra a lo más oscuro de Leonida."
+    detail: "Así lo resume la sinopsis oficial · el tráiler 2 juega con la idea de Bonnie y Clyde"
+    color: [255, 140, 40]
+    say:
+      - "Juntos, la sinopsis oficial habla de un golpe que debía ser sencillo y que acaba arrastrándolos a la conspiración criminal más oscura de Leonida."
+      - "El segundo tráiler, con su estética de Bonnie y Clyde, deja claro que el centro de todo es la relación entre los dos, y que tendrán que confiar el uno en el otro para salir vivos."
+  - type: bullets
+    chapter: "Personajes secundarios"
+    kicker: "Los secundarios"
+    heading: "Más caras que conocerás"
+    items:
+      - {text: "Cal Hampton", sub: "Amigo de Jason · desconfiado, vive escuchando la radio de la policía"}
+      - {text: "Boobie Ike", sub: "Leyenda local de Vice City · negocios, clubes y un estudio de música"}
+      - {text: "Dre'Quan Priest", sub: "Mánager musical · su sello: Only Raw Records"}
+      - {text: "Real Dimez", sub: "Dúo de raperas que busca el éxito en redes"}
+      - {text: "Raul Bautista y Brian Heder", sub: "Un atracador veterano y un traficante de los Keys"}
+    say:
+      - "Rockstar también presentó a varios secundarios."
+      - "Cal Hampton, amigo de Jason, un tipo desconfiado que se pasa el día escuchando las frecuencias de la policía."
+      - "Boobie Ike, una leyenda local de Vice City con negocios por toda la ciudad, incluido un estudio de música."
+      - "Dre'Quan Priest, mánager musical y fundador del sello Only Raw Records."
+      - "Real Dimez, un dúo de raperas que intenta triunfar en redes sociales."
+      - "Y dos más: Raul Bautista, un atracador de bancos con mucha experiencia, y Brian Heder, un traficante veterano de los Keys."
+  - type: quote
+    label: "Ojo"
+    text: "Hoy las redes se llenarán de spoilers. Silencia \"GTA 6\" unos días si quieres ir a ciegas."
+    color: [255, 70, 80]
+    say:
+      - "Un consejo para estos días: las redes se van a llenar de spoilers. Si quieres disfrutar la historia a ciegas, silencia palabras clave durante una semana."
+  - type: outro
+    chapter: "Final"
+    title: "¿Team Lucía o team Jason?"
+    next: "El mapa de GTA 6 explicado: todas las zonas de Leonida"
+    say:
+      - "Cuéntame en comentarios: ¿team Lucía o team Jason?"
+      - "Suscríbete para no perderte nada."
+      - "Y en el próximo vídeo recorremos todo el mapa de Leonida, zona por zona."

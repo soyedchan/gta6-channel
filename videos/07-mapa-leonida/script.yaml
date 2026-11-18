@@ -1,0 +1,78 @@
+seed: 7
+publish: "Viernes 20/11 · 12:00"
+meta:
+  title: "El MAPA de GTA 6 explicado: todas las zonas de Leonida (Vice City, Keys, Grassrivers y más)"
+  description: |
+    Recorremos las seis zonas de Leonida que Rockstar enseñó antes del lanzamiento: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia y Mount Kalaga. Qué es cada una, en qué zona real de Florida se inspira y qué puedes esperar. Ilustración propia, no es el mapa oficial.
+  tags: [mapa gta 6, gta 6 mapa, leonida, vice city gta 6, leonida keys, grassrivers, port gellhorn, ambrosia gta 6, mount kalaga, gta 6 florida, gta 6 tamaño mapa, gta 6 zonas, gta 6, gta vi]
+  hashtags: ["#GTA6", "#ViceCity", "#Leonida"]
+  pinned: "¿Qué zona vas a explorar primero? Yo me voy directo a los Keys 🌴"
+  endscreen: "Configura tu TV antes de jugar a GTA 6"
+thumb: {big: "TODO EL MAPA", tag: "GTA 6 · LEONIDA", sticker: "6 ZONAS", bg: "bokeh"}
+sources:
+  - "Rockstar Games — web oficial de Grand Theft Auto VI, sección de lugares (mayo 2025)"
+  - "Rockstar Games — Tráiler 1 y Tráiler 2"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Bienvenido a Leonida"
+    title: "EL MAPA DE GTA 6"
+    subtitle: "Las 6 zonas de Leonida explicadas"
+    say:
+      - "GTA 6 nos lleva a Leonida, la versión de Florida del universo de Rockstar."
+      - "Vamos a recorrer las seis zonas que Rockstar enseñó antes del lanzamiento, para que sepas qué te espera en cada una."
+  - type: quote
+    label: "Para ubicarte"
+    text: "Leonida es a Florida lo que San Andreas era a California."
+    detail: "Vice City vuelve unos 20 años después, ahora como parte de un estado entero"
+    color: [40, 230, 255]
+    say:
+      - "Para ubicarte: Leonida es a Florida lo que San Andreas era a California."
+      - "Y Vice City, que no pisábamos desde hace unos veinte años, vuelve ahora como la gran ciudad de todo un estado."
+  - type: map
+    chapter: "Las 6 zonas"
+    kicker: "Zona por zona"
+    heading: "Leonida"
+    regions:
+      - {name: "Vice City", pos: [83, 74], side: up, desc: "La gran ciudad: playas, vida nocturna y lujo. Inspirada en Miami."}
+      - {name: "Leonida Keys", pos: [66, 97], side: left, desc: "Cadena de islas con aguas cristalinas. El territorio de Jason."}
+      - {name: "Grassrivers", pos: [69, 82], side: left, desc: "Humedales y pantanos llenos de caimanes. Inspirada en los Everglades."}
+      - {name: "Port Gellhorn", pos: [24, 14], side: down, desc: "Pueblo costero venido a menos en el noroeste del estado."}
+      - {name: "Ambrosia", pos: [62, 42], side: right, desc: "Interior industrial con su refinería de azúcar... y moteros."}
+      - {name: "Mount Kalaga", pos: [44, 16], side: up, desc: "Parque nacional del norte: bosques, montañas y rutas todoterreno."}
+    say:
+      - "Estas son las seis zonas, con una ilustración aproximada hecha por nosotros."
+      - "Vice City, la gran ciudad. Playas, vida nocturna, coches caros y mucho dinero que no siempre es limpio. Su inspiración es clarísima: Miami."
+      - "Los Leonida Keys, una cadena de islas al sur con aguas cristalinas. Es donde vive y trabaja Jason, y se inspira en los Cayos de Florida."
+      - "Grassrivers, los humedales. Pantanos, hierba alta y caimanes. Es la versión de Rockstar de los Everglades."
+      - "Port Gellhorn, un pueblo costero que vivió tiempos mejores, en la zona noroeste del estado."
+      - "Ambrosia, el corazón industrial del interior, con su refinería de azúcar, y donde los clubes de moteros tienen mucho que decir."
+      - "Y Mount Kalaga, un parque nacional al norte, con bosques, montañas y caminos perfectos para el todoterreno, la caza o la pesca."
+  - type: checklist
+    chapter: "Qué esperar"
+    kicker: "Lo que muestran los tráileres"
+    heading: "Qué esperar del mundo"
+    items:
+      - {text: "Mucha vida en las calles", sub: "Multitudes en playas, tráfico denso y fauna salvaje"}
+      - {text: "Interiores y negocios", sub: "Tiendas, clubes y locales que aparecen en los tráileres"}
+      - {text: "Redes sociales dentro del juego", sub: "Los tráileres parodian vídeos virales y directos"}
+    say:
+      - "¿Y qué podemos esperar de este mundo, según lo que enseñaron los tráileres?"
+      - "Muchísima vida: playas llenas de gente, tráfico denso, caimanes y fauna salvaje por todas partes."
+      - "Más interiores: tiendas, clubes y locales en los que entran los protagonistas."
+      - "Y una sátira constante de las redes sociales, con vídeos virales y directos dentro del propio juego."
+  - type: quote
+    label: "Sobre el tamaño"
+    text: "Rockstar no ha dado una cifra oficial del tamaño del mapa."
+    detail: "Desconfía de los kilómetros cuadrados que circulan por redes"
+    color: [255, 214, 64]
+    say:
+      - "Y sobre el tamaño: Rockstar no ha dado ninguna cifra oficial de kilómetros cuadrados. Las comparaciones que circulan por redes son estimaciones de fans, así que tómalas con pinzas."
+  - type: outro
+    chapter: "Final"
+    title: "¿Qué zona exploras primero?"
+    next: "Configura tu TV y tu consola antes de jugar"
+    say:
+      - "Dime en comentarios qué zona vas a explorar primero."
+      - "Si te ha gustado, suscríbete."
+      - "Y en el próximo vídeo te enseño a configurar la tele y la consola para que GTA 6 se vea como debe."

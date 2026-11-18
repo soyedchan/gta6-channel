@@ -1,0 +1,85 @@
+seed: 5
+publish: "Jueves 19/11 · 15:00"
+meta:
+  title: "¿GTA 6 funciona en PS4, Xbox One o Series S? Todas las consolas COMPATIBLES explicadas"
+  description: |
+    ¿En qué consolas se puede jugar GTA 6? PS5, PS5 Slim, PS5 Digital, PS5 Pro, Xbox Series X y Xbox Series S. Te explico por qué no hay versión de PS4 ni Xbox One, qué pasa con la Series S y qué esperar de la PS5 Pro.
+  tags: [gta 6 ps4, gta 6 xbox one, gta 6 series s, gta 6 ps5 pro, gta 6 consolas, gta 6 plataformas, gta 6 nintendo switch 2, gta 6 movil, gta 6 ps5 digital, gta 6 compatible, gta 6, gta vi]
+  hashtags: ["#GTA6", "#PS5", "#XboxSeriesX"]
+  pinned: "¿En qué consola vas a jugar tú? 👇"
+  endscreen: "Lucía y Jason: quiénes son los protagonistas"
+thumb: {big: "¿FUNCIONA EN TU CONSOLA?", tag: "GTA 6 · COMPATIBILIDAD", sticker: "PS4?"}
+sources:
+  - "Rockstar Games Support — Grand Theft Auto VI: plataformas, ediciones y versiones"
+  - "Rockstar Newswire — anuncio de plataformas de GTA VI"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Compatibilidad"
+    title: "¿FUNCIONA EN TU CONSOLA?"
+    subtitle: "PS4, Xbox One, Series S, PS5 Pro..."
+    say:
+      - "Una de las preguntas más buscadas estos días: ¿en qué consolas funciona GTA 6?"
+      - "Te lo dejo clarísimo en tres minutos, consola por consola."
+  - type: table
+    chapter: "Lista de consolas"
+    kicker: "Consola por consola"
+    heading: "¿Funciona o no?"
+    rows:
+      - ["PS5 · PS5 Slim · PS5 Digital", "SÍ"]
+      - ["PS5 Pro", "SÍ"]
+      - ["Xbox Series X · Xbox Series S", "SÍ"]
+      - ["PS4 · Xbox One", "NO", true]
+      - ["Nintendo Switch 2 · móvil", "NO anunciado", true]
+      - ["PC", "Sin fecha"]
+    at: [1, 1, 2, 3, 4, 5]
+    source: "Rockstar Games Support"
+    say:
+      - "Esta es la lista."
+      - "Funciona en cualquier PS5: la original, la Slim, la edición digital y también la PS5 Pro."
+      - "Funciona en las dos Xbox de esta generación: la Series X y la Series S."
+      - "No funciona en PS4 ni en Xbox One. No hay versión para la generación anterior."
+      - "No está anunciado para Nintendo Switch 2 ni para móviles."
+      - "Y en PC, como vimos en el vídeo anterior, no tiene fecha todavía."
+  - type: quote
+    chapter: "Por qué no hay PS4"
+    label: "¿Por qué no en PS4?"
+    text: "GTA 6 está hecho solo para esta generación: SSD rápido, más memoria y mucha más CPU."
+    color: [40, 230, 255]
+    say:
+      - "¿Por qué no hay versión de PS4 si GTA V salió en tres generaciones?"
+      - "Porque GTA 6 está pensado desde el principio para esta generación. El disco SSD ultrarrápido, la memoria y la CPU de PS5 y Series son la base de un mundo tan grande y tan denso. Meterlo en una PS4 obligaría a recortar demasiado."
+  - type: compare
+    chapter: "Series S y PS5 Pro"
+    kicker: "Los dos casos especiales"
+    heading: "Series S y PS5 Pro"
+    columns:
+      - title: "Xbox Series S"
+        items: ["Funciona, es versión oficial", "Espera menos resolución que en Series X", "Solo 364 GB útiles: vigila el espacio", "Rockstar no ha publicado cifras técnicas"]
+      - title: "PS5 Pro"
+        items: ["Funciona, igual que en PS5", "La Pro suele dar más nitidez o estabilidad", "Mejoras concretas: mira la ficha de la tienda", "No hace falta para jugar"]
+    say:
+      - "Hay dos casos especiales."
+      - "La Xbox Series S lo mueve, es una versión oficial. Pero como pasa con casi todos los juegos, lo normal es que funcione a menor resolución que en la Series X. Y ojo con el espacio: le quedan unos trescientos sesenta y cuatro gigas útiles."
+      - "La PS5 Pro también lo corre, como cualquier PS5. Normalmente la Pro ofrece imagen más nítida o más estable, pero las mejoras concretas para GTA 6 debes comprobarlas en la ficha de la tienda. Lo importante: no necesitas una Pro para jugar."
+  - type: checklist
+    chapter: "Si tienes PS4 o Xbox One"
+    kicker: "¿Tienes PS4 o Xbox One?"
+    heading: "Tus opciones"
+    items:
+      - {text: "Aprovecha el valor de tu consola antigua", sub: "Muchas tiendas descuentan tu consola al comprar una nueva"}
+      - {text: "Mira el mercado de segunda mano", sub: "Comprueba garantía, estado y que no esté baneada"}
+      - {text: "Compara ediciones antes de comprar", sub: "La PS5 Digital no lee discos: decide si quieres el juego físico"}
+    say:
+      - "Y si tienes una PS4 o una Xbox One, estas son tus opciones."
+      - "Uno: muchas tiendas aceptan tu consola antigua como parte del pago de una nueva. Aprovéchalo."
+      - "Dos: en segunda mano hay buenas ofertas, pero revisa garantía, estado y que la consola no tenga la cuenta baneada."
+      - "Y tres: si compras PS5, piensa antes si quieres el juego en disco, porque la versión digital no tiene lector."
+  - type: outro
+    chapter: "Final"
+    title: "¿En qué consola juegas?"
+    next: "Lucía y Jason: quiénes son los protagonistas de GTA 6"
+    say:
+      - "Dime en los comentarios en qué consola vas a jugar."
+      - "Si te ha servido, suscríbete."
+      - "En el próximo vídeo te presento a Lucía y a Jason, los protagonistas de GTA 6, sin spoilers."

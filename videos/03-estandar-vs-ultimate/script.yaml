@@ -1,0 +1,99 @@
+seed: 3
+publish: "Jueves 19/11 · 11:00"
+meta:
+  title: "GTA 6 Estándar vs Ultimate: ¿cuál COMPRAR? Precio en España y México y qué incluye cada una"
+  description: |
+    ¿Merece la pena la Ultimate Edition de GTA 6? Comparamos precio (España, México y EE. UU.), contenido, el bonus de reserva Vintage Vice City y te digo cuál comprar según cómo vayas a jugar.
+  tags: [gta 6 ultimate edition, gta 6 precio, gta 6 estandar vs ultimate, cuanto cuesta gta 6, gta 6 precio españa, gta 6 precio mexico, gta 6 ediciones, gta 6 vale la pena, gta 6 bonus reserva, vintage vice city pack, gta 6 fisico o digital, gta 6, gta vi]
+  hashtags: ["#GTA6", "#GTAVI", "#GTA6Precio"]
+  pinned: "¿Tú cuál has pillado, Estándar o Ultimate? 👇"
+  endscreen: "¿GTA 6 sale en PC? Lo que se sabe"
+thumb: {big: "¿CUÁL COMPRAR?", tag: "GTA 6 · EDICIONES", sticker: "79,99 €"}
+sources:
+  - "Rockstar Games Support — Grand Theft Auto VI: plataformas, ediciones y versiones"
+  - "Forbes — precios en EE. UU. (16/11/2026)"
+  - "Heraldo de México, ADN40, Yahoo Noticias — precios en México (noviembre 2026)"
+  - "Microsoft Store — ficha de Grand Theft Auto VI"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Antes de pagar"
+    title: "ESTÁNDAR vs ULTIMATE"
+    subtitle: "¿Cuál merece la pena de verdad?"
+    say:
+      - "Estás a punto de comprar GTA 6 y te sale la pregunta de siempre: ¿la Estándar o la Ultimate?"
+      - "Te comparo el precio, lo que trae cada una y te digo cuál compraría yo según cómo vayas a jugar."
+  - type: table
+    chapter: "Precios"
+    kicker: "Precios de lanzamiento"
+    heading: "Lo que cuesta"
+    rows:
+      - ["España · Estándar", "79,99 €"]
+      - ["España · Ultimate", "99,99 €", true]
+      - ["México (Xbox) · Estándar", "1.499 MXN"]
+      - ["México (Xbox) · Ultimate", "1.879 MXN", true]
+      - ["EE. UU. · Estándar / Ultimate", "79,99 / 99,99 USD"]
+    at: [1, 1, 2, 2, 3]
+    source: "Forbes · Heraldo de México · ADN40 · tiendas oficiales"
+    say:
+      - "Vamos con los precios de lanzamiento."
+      - "En España, la edición Estándar cuesta setenta y nueve con noventa y nueve euros, y la Ultimate, noventa y nueve con noventa y nueve."
+      - "En México, en la tienda de Xbox, la Estándar sale por mil cuatrocientos noventa y nueve pesos y la Ultimate por mil ochocientos setenta y nueve. En PlayStation los precios son muy parecidos una vez sumado el IVA."
+      - "Y en Estados Unidos, setenta y nueve con noventa y nueve y noventa y nueve con noventa y nueve dólares. En resumen: la Ultimate cuesta unos veinte euros o veinte dólares más."
+  - type: compare
+    chapter: "Qué incluye cada una"
+    kicker: "Qué te llevas"
+    heading: "Qué incluye cada edición"
+    columns:
+      - title: "Estándar"
+        price: "79,99 €"
+        items: ["El juego completo", "Historia completa con Lucía y Jason", "Modo online según lo lance Rockstar", "Disponible en digital y en disco"]
+      - title: "Ultimate"
+        price: "99,99 €"
+        items: ["El juego completo", "Ropa y cosméticos extra", "Vehículos de bonificación", "Vales de propiedad para el online", "Solo en digital"]
+    say:
+      - "¿Y qué cambia?"
+      - "La Estándar es el juego completo. Toda la historia, todo el mapa, todo lo que importa. Y es la única que puedes comprar en disco."
+      - "La Ultimate es el mismo juego más contenido extra: cosméticos, vehículos de bonificación y vales de propiedad pensados sobre todo para el modo online. Y ojo, según Rockstar es exclusiva del formato digital."
+  - type: stat
+    chapter: "Bonus de reserva"
+    kicker: "Para ambas ediciones digitales"
+    heading: "El bonus de reserva"
+    value: "Vintage Vice City"
+    size: 150
+    label: "Incluido al comprar en digital antes del 20 de noviembre"
+    detail: "Vapid Stanier del 55 y garaje · ropa y peinados · patrón de arma · 1 mes de GTA+"
+    source: "Rockstar Games Support"
+    say:
+      - "Hay un detalle que mucha gente confunde: el pack de reserva Vintage Vice City no es exclusivo de la Ultimate. Lo dan con las compras digitales hechas antes del veinte de noviembre, según la página de soporte de Rockstar."
+      - "Incluye un Vapid Stanier del cincuenta y cinco con garaje, ropa y peinados, un patrón de arma y un mes de GTA+."
+  - type: compare
+    chapter: "Mi recomendación"
+    kicker: "Mi recomendación"
+    heading: "¿Cuál compro?"
+    columns:
+      - title: "Compra la Estándar si..."
+        items: ["Vas a por la historia", "Quieres el disco para revenderlo o prestarlo", "No te importan los cosméticos", "Prefieres guardar 20 € para otro juego"]
+      - title: "Compra la Ultimate si..."
+        items: ["Vas a vivir en el online", "Quieres ventaja inicial en propiedades", "Compras en digital de todas formas", "Te sobran los 20 €"]
+    vs: false
+    say:
+      - "Mi recomendación es sencilla."
+      - "Si vas a por la historia, o quieres el disco para prestarlo o revenderlo, compra la Estándar. No te pierdes nada importante."
+      - "Si sabes que vas a pasar cientos de horas en el online y compras en digital de todas formas, la Ultimate puede compensar por esos vales de propiedad y vehículos del principio."
+  - type: quote
+    label: "Consejo"
+    text: "Puedes empezar con la Estándar: el contenido extra rara vez se queda solo en la Ultimate para siempre."
+    detail: "En GTA V se vendieron packs similares por separado"
+    color: [255, 214, 64]
+    say:
+      - "Y un consejo extra: si dudas, empieza por la Estándar. En GTA V, Rockstar terminó vendiendo packs de contenido por separado, así que es probable que tengas otra oportunidad más adelante."
+      - "Esto es una opinión basada en lo que ha hecho Rockstar antes, no algo confirmado para GTA 6."
+  - type: outro
+    chapter: "Final"
+    title: "¿Cuál te has pillado?"
+    next: "¿GTA 6 sale en PC? Todo lo que se sabe"
+    say:
+      - "Cuéntame en los comentarios cuál has comprado tú."
+      - "Si te ha ayudado, suscríbete."
+      - "Y en el próximo vídeo hablamos de la gran pregunta de los jugadores de PC: ¿cuándo llega GTA 6 a ordenador?"

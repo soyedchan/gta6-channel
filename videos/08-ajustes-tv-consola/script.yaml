@@ -1,0 +1,92 @@
+seed: 8
+publish: "Viernes 20/11 · 18:00"
+meta:
+  title: "Configura tu TV y tu consola ANTES de jugar GTA 6 (HDR, modo juego, VRR y audio) — PS5 y Xbox"
+  description: |
+    Los ajustes que más se notan antes de empezar GTA 6: modo juego, HDR bien calibrado, VRR, suavizado de movimiento, modos de rendimiento de PS5 y Xbox y audio 3D. Diez minutos de configuración para que el juego se vea y suene como debe.
+  tags: [gta 6 mejores ajustes, gta 6 configuracion, gta 6 hdr, gta 6 ps5 ajustes, gta 6 xbox ajustes, modo juego tv, calibrar hdr ps5, calibracion hdr xbox, gta 6 modo rendimiento, vrr ps5, gta 6 audio 3d, gta 6, gta vi]
+  hashtags: ["#GTA6", "#PS5", "#Xbox"]
+  pinned: "¿Qué tele usas para jugar? Si tienes dudas con algún ajuste, pregunta aquí 👇"
+  endscreen: "Todos los retrasos de GTA 6: la cronología completa"
+thumb: {big: "AJUSTES PRO", tag: "GTA 6 · TV Y CONSOLA", sticker: "HDR"}
+sources:
+  - "PlayStation — Ajustes de pantalla y vídeo, ajustes HDR y valores predeterminados del juego (guía de usuario de PS5)"
+  - "Xbox — Aplicación de calibración HDR para juegos (soporte de Xbox)"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Antes de la primera misión"
+    title: "AJUSTES ANTES DE JUGAR"
+    subtitle: "TV y consola listas para GTA 6"
+    say:
+      - "Has esperado años a GTA 6. No lo juegues con la tele mal configurada."
+      - "En diez minutos lo dejas perfecto. Son ajustes que sirven para PS5 y para Xbox, y que valen para cualquier juego."
+  - type: checklist
+    chapter: "Ajustes de la TV"
+    kicker: "Paso 1 · La televisión"
+    heading: "En la TV"
+    items:
+      - {text: "Activa el modo juego", sub: "Reduce el retraso de la imagen; busca ALLM o \"modo juego automático\""}
+      - {text: "Quita el suavizado de movimiento", sub: "TruMotion, Motionflow, Auto Motion Plus... apágalo"}
+      - {text: "Usa un puerto HDMI 2.1 si tienes", sub: "Necesario para 120 Hz y VRR en muchas teles"}
+      - {text: "Desactiva el contraste dinámico", sub: "Deja que el HDR del juego haga su trabajo"}
+    say:
+      - "Empezamos por la televisión."
+      - "Uno: activa el modo juego. Reduce el retraso entre que pulsas el botón y ves la acción. Si tu tele tiene modo juego automático, también llamado ALLM, actívalo."
+      - "Dos: apaga el suavizado de movimiento. Cada marca lo llama de una forma, pero todos hacen lo mismo: añaden retraso y dejan la imagen con efecto telenovela."
+      - "Tres: si tu tele tiene puertos HDMI dos punto uno, conecta ahí la consola. Muchas teles solo permiten ciento veinte hercios y VRR en esos puertos."
+      - "Y cuatro: desactiva el contraste dinámico y los modos de brillo automático. Deja que el HDR del juego haga su trabajo."
+  - type: compare
+    chapter: "Calibrar el HDR"
+    kicker: "Paso 2 · El HDR"
+    heading: "Calibra el HDR"
+    columns:
+      - title: "PS5"
+        items: ["Ajustes", "Pantalla y vídeo", "Salida de vídeo", "Ajustar HDR", "Sigue los 3 pasos hasta que el símbolo casi desaparezca"]
+      - title: "Xbox Series"
+        items: ["Ajustes", "General", "Opciones de TV y pantalla", "Calibrar HDR para juegos", "Ajusta hasta que el logotipo apenas se vea"]
+    vs: false
+    say:
+      - "Paso dos, el HDR. Si lo calibras bien, el atardecer de Vice City te lo va a agradecer."
+      - "En PS5 entra en Ajustes, Pantalla y vídeo, Salida de vídeo, y Ajustar HDR. Son tres pantallas: sube o baja hasta que el símbolo casi desaparezca."
+      - "En Xbox es parecido: Ajustes, General, Opciones de TV y pantalla, y Calibrar HDR para juegos. Mismo truco, ajusta hasta que el logotipo apenas se vea."
+  - type: bullets
+    chapter: "Ajustes de la consola"
+    kicker: "Paso 3 · La consola"
+    heading: "En la consola"
+    items:
+      - {text: "Elige rendimiento o calidad", sub: "PS5: Ajustes › Datos guardados y ajustes de juegos › Valores predeterminados"}
+      - {text: "Activa VRR si tu tele lo admite", sub: "Menos tirones cuando el juego baja de fotogramas"}
+      - {text: "Revisa la salida de 120 Hz", sub: "Solo se usa si el juego lo ofrece; no molesta tenerla activada"}
+    say:
+      - "Paso tres, la consola."
+      - "En PS5 puedes decidir si prefieres modo rendimiento o modo resolución en los valores predeterminados de juego. Si GTA 6 ofrece varios modos en su menú, ese es el que manda."
+      - "Activa VRR si tu tele lo admite. Hace que las bajadas de fotogramas se noten mucho menos."
+      - "Y revisa que la salida de ciento veinte hercios esté activada. Solo se usará si el juego lo ofrece, pero no molesta tenerla."
+  - type: checklist
+    chapter: "Audio"
+    kicker: "Paso 4 · El sonido"
+    heading: "No te olvides del audio"
+    items:
+      - {text: "Con cascos en PS5: audio 3D", sub: "Ajustes › Sonido › Salida de audio › Audio 3D"}
+      - {text: "Con cascos en Xbox: sonido espacial", sub: "Windows Sonic viene gratis en la consola"}
+      - {text: "Sin barra de sonido: modo de rango dinámico", sub: "Si juegas de noche, baja el rango en el menú del juego"}
+    say:
+      - "Y paso cuatro, el sonido, que en un GTA es media experiencia. La radio, la ciudad, los disparos."
+      - "Si juegas con cascos en PS5, activa el audio tres D en Ajustes, Sonido, Salida de audio."
+      - "En Xbox, activa el sonido espacial. Windows Sonic viene gratis con la consola."
+      - "Y si juegas de noche con los altavoces de la tele, busca en el menú del juego una opción de rango dinámico reducido, para no despertar a nadie con cada explosión."
+  - type: quote
+    label: "Último paso"
+    text: "Dentro del juego, ajusta el brillo y los subtítulos antes de la primera misión."
+    color: [40, 230, 255]
+    say:
+      - "Y el último: cuando arranques GTA 6, antes de la primera misión, pasa por el menú de opciones. Brillo, tamaño de subtítulos y sensibilidad de cámara. Dos minutos que te ahorran horas de molestias."
+  - type: outro
+    chapter: "Final"
+    title: "¿Listo para jugar?"
+    next: "Todos los retrasos de GTA 6: la cronología completa"
+    say:
+      - "Y listo, ahora sí."
+      - "Si te ha servido, suscríbete y compártelo con ese amigo que juega con el modo cine activado."
+      - "En el próximo vídeo repasamos todos los retrasos de GTA 6, desde el primer anuncio hasta hoy."

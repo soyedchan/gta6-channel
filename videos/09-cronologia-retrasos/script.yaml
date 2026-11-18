@@ -1,0 +1,104 @@
+seed: 9
+publish: "Sábado 21/11 · 12:00"
+meta:
+  title: "TODOS los retrasos de GTA 6: la cronología completa (2022–2026) hasta el lanzamiento"
+  description: |
+    De la confirmación de 2022 al lanzamiento del 19 de noviembre de 2026: la filtración masiva, el tráiler que se adelantó, los dos retrasos, las reservas y la precarga. Toda la historia del desarrollo de GTA 6, fecha a fecha.
+  tags: [gta 6 retraso, gta 6 cronologia, gta 6 historia desarrollo, gta 6 fecha, gta 6 filtracion 2022, gta 6 trailer 1, gta 6 trailer 2, gta 6 retrasado 2026, gta 6 noviembre 2026, gta 6 mayo 2026, gta 6, gta vi]
+  hashtags: ["#GTA6", "#GTAVI", "#Rockstar"]
+  pinned: "¿Desde qué año llevabas esperando GTA 6? 👇"
+  endscreen: "La historia de GTA en 6 minutos"
+thumb: {big: "TODOS LOS RETRASOS", tag: "GTA 6 · CRONOLOGÍA", sticker: "2022→2026"}
+sources:
+  - "Rockstar Newswire — confirmación del desarrollo (febrero 2022), anuncio del tráiler (2023), comunicados de retraso (mayo y noviembre 2025)"
+  - "Rockstar Newswire — Pre-Order Grand Theft Auto VI on June 25"
+  - "Rockstar Games Support — fecha de lanzamiento y precarga"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Por fin"
+    title: "LA LARGA ESPERA DE GTA 6"
+    subtitle: "Todos los retrasos, fecha a fecha"
+    say:
+      - "Trece años después de GTA V, GTA 6 por fin está en nuestras manos."
+      - "Pero el camino ha sido largo: filtraciones, tráileres adelantados y dos retrasos. Vamos con la cronología completa."
+  - type: timeline
+    chapter: "2022–2023: el anuncio"
+    kicker: "Primera parte"
+    heading: "Del anuncio al primer tráiler"
+    events:
+      - {date: "Feb 2022", text: "Rockstar confirma que el nuevo GTA está en desarrollo"}
+      - {date: "Sep 2022", text: "Filtración masiva de vídeos de una versión temprana"}
+      - {date: "Nov 2023", text: "Rockstar anuncia el primer tráiler para diciembre"}
+      - {date: "Dic 2023", text: "El tráiler se filtra y Rockstar lo publica antes de tiempo"}
+    say:
+      - "Febrero de dos mil veintidós. Rockstar confirma oficialmente que el siguiente Grand Theft Auto está en desarrollo."
+      - "Septiembre de dos mil veintidós. Llega una de las mayores filtraciones de la historia del videojuego: decenas de vídeos de una versión muy temprana del juego."
+      - "Noviembre de dos mil veintitrés. Rockstar anuncia que el primer tráiler llegará en diciembre."
+      - "Y en diciembre, el tráiler se filtra horas antes, así que Rockstar lo publica por sorpresa. Ventana de lanzamiento: dos mil veinticinco. El vídeo bate récords de visualizaciones en YouTube en sus primeras veinticuatro horas."
+  - type: stat
+    chapter: "Primer retraso"
+    kicker: "Mayo de 2025"
+    heading: "Primer retraso"
+    value: "26/05/2026"
+    size: 210
+    label: "De 2025 a mayo de 2026"
+    detail: "Rockstar pide \"un poco más de tiempo\" para cumplir con lo que espera la gente"
+    source: "Rockstar Newswire"
+    say:
+      - "Mayo de dos mil veinticinco, primer retraso. Rockstar anuncia que GTA 6 no saldrá en dos mil veinticinco, sino el veintiséis de mayo de dos mil veintiséis."
+      - "El motivo oficial: necesitaban un poco más de tiempo para alcanzar el nivel de calidad que los jugadores esperan."
+  - type: quote
+    chapter: "Tráiler 2"
+    label: "Mayo de 2025"
+    text: "Cuatro días después llega el tráiler 2, con Jason y Lucía."
+    detail: "Y la web oficial con personajes y zonas de Leonida"
+    color: [40, 230, 255]
+    say:
+      - "Para compensar, solo unos días después llega el segundo tráiler, que nos presenta mucho mejor a Jason y a Lucía, junto a una web oficial con los personajes y las zonas de Leonida."
+  - type: stat
+    chapter: "Segundo retraso"
+    kicker: "Noviembre de 2025"
+    heading: "Segundo retraso"
+    value: "19/11/2026"
+    size: 210
+    label: "De mayo a noviembre de 2026"
+    detail: "Seis meses más para pulir el juego"
+    source: "Rockstar Newswire"
+    say:
+      - "Noviembre de dos mil veinticinco, segundo retraso. Rockstar mueve el lanzamiento seis meses, hasta el diecinueve de noviembre de dos mil veintiséis."
+      - "Otra vez el mismo argumento: pulir el juego hasta el último detalle."
+  - type: timeline
+    chapter: "2026: la recta final"
+    kicker: "Segunda parte"
+    heading: "La recta final"
+    events:
+      - {date: "25 jun 2026", text: "Abren las reservas"}
+      - {date: "10 nov 2026", text: "Empieza la precarga digital"}
+      - {date: "19 nov 2026", text: "Lanzamiento en PS5 y Xbox Series X|S"}
+    source: "Rockstar Newswire · Rockstar Games Support"
+    say:
+      - "Y llega la recta final."
+      - "El veinticinco de junio de dos mil veintiséis abren las reservas."
+      - "El diez de noviembre empieza la precarga para quien lo compró en digital."
+      - "Y el diecinueve de noviembre, por fin, GTA 6 sale en PS5 y en Xbox Series X y Series S."
+  - type: stat
+    chapter: "En números"
+    kicker: "En perspectiva"
+    heading: "La espera, en números"
+    count: 13
+    value: "13 años"
+    suffix: " años"
+    label: "Entre GTA V (2013) y GTA 6 (2026)"
+    detail: "La mayor espera entre dos GTA principales de la saga"
+    say:
+      - "En total, trece años entre GTA V y GTA 6."
+      - "La espera más larga entre dos entregas principales de la saga, con mucha diferencia."
+  - type: outro
+    chapter: "Final"
+    title: "¿Ha merecido la pena?"
+    next: "La historia de GTA en 6 minutos: de 1997 a GTA 6"
+    say:
+      - "Ahora la pregunta es si ha merecido la pena esperar. Te leo en comentarios."
+      - "Suscríbete si te gusta este tipo de repasos."
+      - "Y en el próximo vídeo vamos más atrás todavía: la historia completa de GTA, desde mil novecientos noventa y siete."

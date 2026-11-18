@@ -1,0 +1,94 @@
+seed: 10
+publish: "Domingo 22/11 · 12:00"
+meta:
+  title: "La HISTORIA de GTA en 6 minutos: de 1997 a GTA 6 (todos los juegos principales)"
+  description: |
+    Repasamos la saga Grand Theft Auto desde el primer GTA de 1997 hasta GTA 6: GTA III y el salto al 3D, Vice City, San Andreas, GTA IV, GTA V y GTA Online, y por qué GTA 6 vuelve a Vice City.
+  tags: [historia de gta, saga gta, todos los gta, evolucion gta, gta 1997, gta san andreas, gta vice city, gta iv, gta v, gta 6, gta online, rockstar games historia, gta vi]
+  hashtags: ["#GTA6", "#GTA", "#RockstarGames"]
+  pinned: "¿Cuál fue tu primer GTA? El mío, San Andreas 🌴"
+  endscreen: "¿A qué hora se desbloquea GTA 6? (lista de reproducción)"
+thumb: {big: "TODA LA SAGA", tag: "GTA · 1997 → 2026", sticker: "29 AÑOS"}
+sources:
+  - "Rockstar Games — historial de lanzamientos de la saga Grand Theft Auto"
+  - "Take-Two Interactive — informes de ventas de GTA V"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "De 1997 a 2026"
+    title: "LA HISTORIA DE GTA"
+    subtitle: "Toda la saga en 6 minutos"
+    say:
+      - "Antes de perderte en Leonida, merece la pena mirar atrás."
+      - "Casi treinta años de Grand Theft Auto. Vamos con la historia completa de la saga, juego a juego."
+  - type: timeline
+    chapter: "Los inicios (1997–1999)"
+    kicker: "Los inicios"
+    heading: "Vista desde arriba"
+    events:
+      - {date: "1997", text: "Grand Theft Auto · DMA Design · vista cenital"}
+      - {date: "1999", text: "GTA 2 · un futuro retro y bandas rivales"}
+    say:
+      - "Todo empieza en mil novecientos noventa y siete con Grand Theft Auto, creado por el estudio escocés DMA Design, el que acabaría convirtiéndose en Rockstar North."
+      - "Un juego con vista desde arriba, ciudades como Liberty City, Vice City y San Andreas, y una idea revolucionaria: libertad total para hacer el gamberro."
+      - "En mil novecientos noventa y nueve llega GTA 2, con una ciudad retrofuturista y un sistema de reputación con bandas rivales."
+  - type: stat
+    chapter: "GTA III: el salto al 3D"
+    kicker: "2001"
+    heading: "El juego que lo cambió todo"
+    value: "GTA III"
+    size: 230
+    label: "Liberty City en 3D"
+    detail: "Mundo abierto en tercera persona en PlayStation 2"
+    say:
+      - "Y en dos mil uno, todo cambia. GTA III lleva la saga al 3D en PlayStation 2."
+      - "Liberty City pasa a ser una ciudad viva que recorres en tercera persona, y nace la fórmula de mundo abierto que copiaría media industria durante veinte años."
+  - type: timeline
+    chapter: "La era PS2 (2002–2004)"
+    kicker: "La edad de oro"
+    heading: "La era de PlayStation 2"
+    events:
+      - {date: "2002", text: "Vice City · los 80, neón y Tommy Vercetti"}
+      - {date: "2004", text: "San Andreas · CJ y un estado entero con tres ciudades"}
+    say:
+      - "Un año después llega Vice City. Los ochenta, Miami, neón, una banda sonora legendaria y Tommy Vercetti. Para muchos, el GTA con más estilo de la historia."
+      - "Y en dos mil cuatro, San Andreas. Carl Johnson, CJ, y un estado entero con tres ciudades, campo, desierto y montañas. Uno de los juegos más vendidos de PlayStation 2."
+  - type: compare
+    chapter: "GTA IV y GTA V"
+    kicker: "La era HD"
+    heading: "GTA IV y GTA V"
+    columns:
+      - title: "GTA IV · 2008"
+        items: ["Niko Bellic", "Liberty City más realista", "Física y animaciones nuevas", "Tono más serio y dramático"]
+      - title: "GTA V · 2013"
+        items: ["Tres protagonistas", "Los Santos y el condado de Blaine", "Nace GTA Online", "Más de 200 millones vendidos"]
+    say:
+      - "Y llega la alta definición."
+      - "En dos mil ocho, GTA IV. Niko Bellic, un inmigrante que llega a Liberty City buscando el sueño americano. Más realista, con nuevas físicas y un tono mucho más serio."
+      - "Y en dos mil trece, GTA V. Tres protagonistas, Michael, Franklin y Trevor, en Los Santos. Con él nace GTA Online, y se convierte en uno de los productos de entretenimiento más rentables de la historia, con más de doscientos millones de copias vendidas."
+  - type: quote
+    chapter: "Por qué GTA V duró tanto"
+    label: "Tres generaciones"
+    text: "GTA V salió en PS3, PS4 y PS5: trece años vivo gracias a GTA Online."
+    color: [40, 230, 255]
+    say:
+      - "GTA V es el único que ha salido en tres generaciones de PlayStation: PS3, PS4 y PS5. GTA Online lo mantuvo vivo más de una década, y esa es en buena parte la razón de que la espera hasta GTA 6 haya sido tan larga."
+  - type: stat
+    chapter: "GTA 6"
+    kicker: "2026"
+    heading: "El regreso a Vice City"
+    value: "GTA VI"
+    size: 240
+    label: "Leonida · Lucía y Jason"
+    detail: "La saga vuelve a donde fue más icónica"
+    say:
+      - "Y así llegamos a GTA 6. La saga vuelve a Vice City, ahora dentro del estado de Leonida, con una pareja protagonista por primera vez: Lucía y Jason."
+      - "Casi treinta años después de aquel juego con vista desde arriba, la serie vuelve a su ciudad más icónica."
+  - type: outro
+    chapter: "Final"
+    title: "¿Cuál fue tu primer GTA?"
+    next: "Lista de reproducción: guías de GTA 6"
+    say:
+      - "Ahora cuéntame: ¿cuál fue tu primer GTA?"
+      - "Si te ha gustado el repaso, suscríbete."
+      - "Y en la lista de reproducción del canal tienes todas las guías de lanzamiento de GTA 6."

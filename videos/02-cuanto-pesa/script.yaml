@@ -1,0 +1,108 @@
+seed: 2
+publish: "Jueves 19/11 · 09:00"
+meta:
+  title: "¿Cuánto PESA GTA 6? Espacio exacto en PS5 y Xbox (y cómo liberar sitio sin perder partidas)"
+  description: |
+    GTA 6 ocupa más de 200 GB. Te cuento cuánto espacio necesitas en PS5 y en Xbox Series X|S, cuánto espacio real tiene tu consola y cómo liberar sitio o ampliar el almacenamiento sin perder tus partidas guardadas.
+  tags: [cuanto pesa gta 6, gta 6 tamaño, gta 6 gb, gta 6 espacio ps5, gta 6 espacio xbox, gta 6 212 gb, gta 6 series s espacio, ampliar almacenamiento ps5, ssd ps5 gta 6, tarjeta expansion xbox, gta 6, gta vi, gta 6 precarga]
+  hashtags: ["#GTA6", "#GTAVI", "#PS5"]
+  pinned: "¿Cuánto espacio libre te queda ahora mismo? Yo tuve que borrar tres juegos 😅"
+  endscreen: "GTA 6 Estándar vs Ultimate: ¿cuál comprar?"
+thumb: {big: "¿CUÁNTO PESA?", tag: "GTA 6 · PS5 Y XBOX", sticker: "212 GB"}
+sources:
+  - "Forbes — GTA VI download size and day-one updates (16/11/2026)"
+  - "Tempo — Everything you need to know as GTA 6 launches this week (noviembre 2026)"
+  - "Sony y Microsoft — capacidad útil de PS5 y Xbox Series X|S (fichas oficiales)"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Antes de descargar"
+    title: "¿CUÁNTO PESA GTA 6?"
+    subtitle: "Espacio exacto y cómo liberar sitio"
+    say:
+      - "GTA 6 es enorme, y no solo el mapa. También lo que ocupa en tu consola."
+      - "Te digo cuánto espacio necesitas en PS5 y en Xbox, cuánto tiene de verdad tu consola, y cómo hacer hueco sin perder tus partidas."
+  - type: stat
+    chapter: "Tamaño en PS5"
+    kicker: "PlayStation 5"
+    heading: "Lo que ocupa en PS5"
+    count: 212
+    value: "212 GB"
+    suffix: " GB"
+    label: "Espacio libre necesario en PS5"
+    detail: "Cifra de Rockstar recogida por la prensa · puede variar con los parches"
+    source: "Forbes · Tempo"
+    say:
+      - "Empezamos por PS5. La cifra que manejan los medios a partir de los datos de Rockstar es de unos doscientos doce gigas de espacio libre."
+      - "Y ojo, porque esa cifra puede crecer con cada actualización que salga después del lanzamiento."
+  - type: stat
+    chapter: "Tamaño en Xbox"
+    kicker: "Xbox Series X|S"
+    heading: "Lo que ocupa en Xbox"
+    count: 234
+    value: "234 GB"
+    suffix: " GB"
+    label: "Espacio de instalación aproximado en Xbox"
+    detail: "Algo más que en PS5 · revisa la cifra exacta en tu tienda"
+    source: "Tempo"
+    say:
+      - "En Xbox Series X y Series S la instalación es algo más grande. Se habla de unos doscientos treinta y cuatro gigas."
+      - "En cualquier caso, la cifra exacta te la da la propia tienda de tu consola antes de descargar, así que compruébala allí."
+  - type: table
+    chapter: "¿Te cabe en tu consola?"
+    kicker: "Espacio útil real"
+    heading: "¿Te cabe en tu consola?"
+    rows:
+      - ["PS5 original (825 GB)", "≈ 667 GB útiles"]
+      - ["PS5 Slim (1 TB)", "≈ 848 GB útiles"]
+      - ["PS5 Pro (2 TB)", "≈ 1,8 TB útiles"]
+      - ["Xbox Series X (1 TB)", "≈ 802 GB útiles"]
+      - ["Xbox Series S (512 GB)", "≈ 364 GB útiles", true]
+    at: [1, 1, 1, 2, 3]
+    say:
+      - "El problema es que tu consola no tiene todo el espacio que pone en la caja. El sistema se queda una parte."
+      - "Una PS5 original de ochocientos veinticinco gigas deja unos seiscientos sesenta y siete útiles. La Slim de un tera, unos ochocientos cuarenta y ocho. Y la PS5 Pro, alrededor de un tera ocho."
+      - "La Xbox Series X deja unos ochocientos dos gigas libres."
+      - "Y la que más sufre es la Series S de quinientos doce gigas, con unos trescientos sesenta y cuatro útiles. GTA 6 se come más de la mitad."
+  - type: quote
+    label: "Regla práctica"
+    text: "Deja al menos 50 GB extra libres para las actualizaciones."
+    color: [40, 230, 255]
+    say:
+      - "Mi consejo: no vayas justo. Deja por lo menos cincuenta gigas libres además del juego, porque los parches de los primeros días suelen necesitar espacio temporal para instalarse."
+  - type: checklist
+    chapter: "Cómo liberar espacio"
+    kicker: "Sin perder nada"
+    heading: "Cómo liberar espacio"
+    items:
+      - {text: "Ordena tus juegos por tamaño", sub: "Borra los que no tocas: el juego se vuelve a descargar cuando quieras"}
+      - {text: "Las partidas guardadas no se borran", sub: "Se quedan en la consola y en la nube si tienes PS Plus o Xbox"}
+      - {text: "Borra capturas y clips de vídeo", sub: "La galería puede ocupar decenas de gigas sin que te des cuenta"}
+      - {text: "Mueve juegos a un disco USB", sub: "Sirve como almacén, aunque los de PS5 y Series no se juegan desde ahí"}
+    say:
+      - "Así se libera espacio sin perder nada."
+      - "Primero, entra en el almacenamiento de la consola y ordena los juegos por tamaño. Borra los que no juegas. Siempre puedes volver a descargarlos."
+      - "Tranquilo con las partidas: al borrar un juego, los datos guardados se quedan en la consola, y en la nube si tienes PlayStation Plus o Xbox."
+      - "Tercero, revisa la galería. Capturas y clips de vídeo pueden ocupar decenas de gigas sin que te des cuenta."
+      - "Y cuarto, usa un disco USB externo como almacén. Ahí puedes guardar juegos de PS5 o de Series, aunque para jugarlos tendrás que pasarlos de vuelta a la memoria interna."
+  - type: compare
+    chapter: "Ampliar el almacenamiento"
+    kicker: "Si quieres más espacio"
+    heading: "Ampliar el almacenamiento"
+    columns:
+      - title: "PS5"
+        items: ["SSD M.2 NVMe PCIe Gen4", "Recomendado: 5.500 MB/s o más", "Con disipador", "Desde 1 TB para ir cómodo"]
+      - title: "Xbox Series X|S"
+        items: ["Tarjeta de expansión oficial", "Se conecta detrás de la consola", "Juegas igual que en la memoria interna", "Más cara por gigabyte"]
+    say:
+      - "Y si te quedas corto de verdad, toca ampliar."
+      - "En PS5 puedes instalar un SSD M.2 NVMe PCIe de cuarta generación. Sony recomienda velocidades de cinco mil quinientos megas por segundo o más, y con disipador."
+      - "En Xbox Series necesitas una tarjeta de expansión de almacenamiento compatible. Se conecta en la parte trasera y funciona igual que la memoria interna, aunque sale más cara por gigabyte."
+  - type: outro
+    chapter: "Final"
+    title: "¿Te cabe?"
+    next: "GTA 6 Estándar vs Ultimate: ¿cuál comprar?"
+    say:
+      - "Así que ya sabes: unos doscientos doce gigas en PS5, algo más en Xbox, y cincuenta de margen."
+      - "Si te ha servido, dale a suscribirte."
+      - "En el siguiente vídeo comparo la edición Estándar y la Ultimate, para que no tires el dinero."
