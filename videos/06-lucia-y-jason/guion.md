@@ -44,7 +44,7 @@
 ## [1:46] quote
 *Escena: quote · Fondo: bokeh*
 
-> Un consejo para estos días: las redes se van a llenar de spoilers. Si quieres disfrutar la historia a ciegas, silencia palabras clave durante una semana.
+> Un consejo para estos días: las redes están llenas de spoilers. Si quieres disfrutar la historia a ciegas, silencia palabras clave durante una semana.
 
 ## [1:56] Final
 *Escena: outro · Fondo: sunset*

@@ -73,10 +73,10 @@ scenes:
       - "Y dos más: Raul Bautista, un atracador de bancos con mucha experiencia, y Brian Heder, un traficante veterano de los Keys."
   - type: quote
     label: "Ojo"
-    text: "Hoy las redes se llenarán de spoilers. Silencia \"GTA 6\" unos días si quieres ir a ciegas."
+    text: "Estos días las redes están llenas de spoilers. Silencia \"GTA 6\" si quieres ir a ciegas."
     color: [255, 70, 80]
     say:
-      - "Un consejo para estos días: las redes se van a llenar de spoilers. Si quieres disfrutar la historia a ciegas, silencia palabras clave durante una semana."
+      - "Un consejo para estos días: las redes están llenas de spoilers. Si quieres disfrutar la historia a ciegas, silencia palabras clave durante una semana."
   - type: outro
     chapter: "Final"
     title: "¿Team Lucía o team Jason?"
