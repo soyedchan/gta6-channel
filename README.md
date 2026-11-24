@@ -6,7 +6,7 @@ Diez vídeos listos para subir el día de lanzamiento de GTA 6 (**jueves 19 de n
 
 | # | Carpeta | Qué busca la gente | Publicar (hora peninsular) |
 |---|---------|--------------------|-------------------|
-| 1 | `videos/01-hora-de-salida` | "a qué hora sale gta 6", "gta 6 no me deja jugar" | **Jue 19 · 00:05** (lo antes posible) |
+| 1 | `videos/01-no-me-deja-jugar` | "gta 6 se cierra", "gta 6 no me deja jugar", "gta 6 online" | **Jue 19 · 00:05** (lo antes posible) |
 | 2 | `videos/02-cuanto-pesa` | "cuánto pesa gta 6", "gta 6 gb" | Jue 19 · 09:00 |
 | 3 | `videos/03-estandar-vs-ultimate` | "gta 6 precio", "ultimate edition vale la pena" | Jue 19 · 11:00 |
 | 4 | `videos/04-gta6-pc` | "gta 6 pc", "cuándo sale gta 6 en pc" | Jue 19 · 13:00 |

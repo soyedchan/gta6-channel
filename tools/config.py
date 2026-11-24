@@ -52,6 +52,7 @@ PRONUNCIATION = [
     (r"\bDuval\b", "Duval"),
     (r"\bUltimate\b", "Áltimeit"),
     (r"\bVintage\b", "Víntach"),
+    (r"\bOptions\b", "Ópchons"),
     (r"\bStanier\b", "Stánier"),
     (r"\bStandard\b", "Estándar"),
     (r"\bRockstar Games\b", "Rocstar Geims"),

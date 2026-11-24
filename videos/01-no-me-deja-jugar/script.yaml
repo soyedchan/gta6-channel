@@ -1,0 +1,119 @@
+seed: 1
+publish: "Lo antes posible"
+meta:
+  title: "GTA 6 se CIERRA, no guarda o no te deja jugar: SOLUCIONES y qué arregla el nuevo parche"
+  description: |
+    ¿GTA 6 se cierra solo, no guarda la partida, no te llega una llamada de la historia o directamente no te deja jugar? Te explico qué arregla el primer parche (01.002.002 en PS5 / 1.0.2.2 en Xbox), cómo comprobar que lo tienes y las soluciones que funcionan en PS5 y Xbox Series X|S. Y respondo a la pregunta del momento: ¿dónde está el modo online?
+  tags: [gta 6 no me deja jugar, gta 6 se cierra, gta 6 crash, gta 6 error, gta 6 parche, gta 6 actualizacion, gta 6 no guarda, gta 6 bug llamada, gta 6 ce-108255-1, gta 6 ps5 error, gta 6 xbox error, gta 6 online, gta 6 modo online, gta 6 solucion, gta vi]
+  hashtags: ["#GTA6", "#GTAVI", "#GTA6Bugs"]
+  pinned: "¿Qué fallo te está dando a ti? Dime consola y código de error y te ayudo 👇"
+  endscreen: "¿Cuánto pesa GTA 6? Espacio y cómo liberar sitio"
+thumb: {big: "¿SE TE CIERRA?", tag: "GTA 6 · SOLUCIONES", sticker: "PARCHE"}
+sources:
+  - "Rockstar Games Support — Grand Theft Auto VI: Launch Updates (notas del parche)"
+  - "Shacknews — GTA 6 Launch Update patch notes (noviembre 2026)"
+  - "Player.one — GTA 6's first post-launch update fixes story phone calls and autosaves (noviembre 2026)"
+  - "Space4games — GTA 6 patch notes: every fix in the first update (noviembre 2026)"
+  - "OpenCritic / GamesRadar — GTA 6 se lanza como experiencia para un jugador, sin online"
+scenes:
+  - type: title
+    chapter: "Intro"
+    kicker: "Guía de soluciones"
+    title: "GTA 6 DA PROBLEMAS"
+    subtitle: "Cierres, partidas que no guardan y cómo arreglarlo"
+    say:
+      - "GTA 6 ya lleva unos días a la venta y, como en casi todos los lanzamientos grandes, hay fallos: el juego se cierra, la partida no se guarda o una misión no avanza."
+      - "Te cuento qué arregla el primer parche, cómo saber si lo tienes y qué hacer si aun así te sigue fallando."
+  - type: stat
+    chapter: "El primer parche"
+    kicker: "Ya disponible"
+    heading: "El primer parche"
+    value: "01.002.002"
+    size: 200
+    label: "Versión en PS5 · en Xbox aparece como 1.0.2.2"
+    detail: "Publicado el 23 de noviembre de 2026"
+    source: "Shacknews · Player.one · Rockstar Games Support"
+    say:
+      - "Lo primero: Rockstar ya ha sacado el primer parche. En PS5 es la versión cero uno, punto cero cero dos, punto cero cero dos. En Xbox aparece como uno punto cero punto dos punto dos."
+      - "Salió el veintitrés de noviembre, cuatro días después del lanzamiento."
+  - type: checklist
+    kicker: "Según las notas del parche"
+    heading: "Qué arregla"
+    items:
+      - {text: "Varios cierres inesperados del juego", sub: "Los crashes más frecuentes del lanzamiento"}
+      - {text: "El guardado automático", sub: "Partidas que no se guardaban bien"}
+      - {text: "Llamadas de la historia que nunca llegaban", sub: "Y que dejaban la partida atascada"}
+      - {text: "Un nivel de búsqueda imposible de quitar", sub: "Y un fallo con el tiempo meteorológico"}
+    say:
+      - "Según las notas que recoge la prensa, esto es lo que arregla."
+      - "Uno: varios de los cierres inesperados más comunes."
+      - "Dos: el guardado automático, que en algunas partidas no funcionaba bien."
+      - "Tres: las llamadas de la historia que nunca llegaban y que te dejaban atascado sin poder seguir."
+      - "Y cuatro: un nivel de búsqueda que no había forma de quitarse de encima, además de un fallo con el tiempo."
+  - type: compare
+    chapter: "Cómo comprobar que lo tienes"
+    kicker: "Comprueba tu versión"
+    heading: "¿Tienes el parche?"
+    columns:
+      - title: "PS5"
+        items: ["Selecciona GTA 6 en el menú", "Pulsa el botón Options", "Elige Información", "Si no está al día: Buscar actualización"]
+      - title: "Xbox Series X|S"
+        items: ["Mis juegos y aplicaciones", "Selecciona GTA 6 y pulsa Menú", "Administrar juego y complementos", "Revisa la sección Actualizaciones"]
+    vs: false
+    say:
+      - "¿Cómo sabes si lo tienes?"
+      - "En PS5, selecciona el juego en el menú principal, pulsa el botón Options y entra en Información. Ahí ves la versión. Si no está al día, elige Buscar actualización."
+      - "En Xbox, ve a Mis juegos y aplicaciones, selecciona GTA 6, pulsa el botón Menú y entra en Administrar juego y complementos. En la sección de actualizaciones verás si tienes alguna pendiente."
+  - type: checklist
+    chapter: "Si se te sigue cerrando"
+    kicker: "Si sigue fallando"
+    heading: "Si se te sigue cerrando"
+    items:
+      - {text: "Actualiza también el sistema de la consola", sub: "Ajustes › Sistema › Software del sistema"}
+      - {text: "Apaga del todo, nada de modo reposo", sub: "Desenchufa unos segundos y vuelve a encender"}
+      - {text: "PS5: reconstruye la base de datos", sub: "Modo seguro › Borrar caché y reconstruir base de datos"}
+      - {text: "Si una llamada no llega, carga una partida anterior", sub: "Ya con el parche instalado"}
+    say:
+      - "Si después del parche el juego se te sigue cerrando, prueba esto en orden."
+      - "Uno: actualiza también el software de la consola. Un sistema desactualizado puede dar problemas con juegos nuevos."
+      - "Dos: apágala del todo, nada de modo reposo. Desenchúfala unos segundos y vuelve a encenderla."
+      - "Tres, si juegas en PS5: arranca en modo seguro y elige borrar caché y reconstruir la base de datos. No borra tus partidas, pero puede tardar un rato."
+      - "Y cuatro: si una llamada de la historia sigue sin llegar, carga una partida guardada un poco anterior, ya con el parche instalado."
+  - type: quote
+    label: "Aún sin confirmar"
+    text: "El error CE-108255-1 en PS5 y el juego a doble velocidad en Xbox siguen bajo revisión."
+    detail: "Si te pasa, repórtalo en support.rockstargames.com"
+    color: [255, 70, 80]
+    say:
+      - "Hay dos fallos de los que todavía no está claro si el parche los soluciona: el cierre con el código de error CE uno cero ocho dos cinco cinco guion uno en PS5, y un problema en Xbox que hace que el juego vaya a doble velocidad."
+      - "Si te ocurre alguno, repórtalo en la web de soporte de Rockstar. Cuantos más informes reciban, antes lo arreglan."
+  - type: checklist
+    chapter: "Si no te deja ni arrancar"
+    kicker: "Si no te deja ni entrar"
+    heading: "Si no te deja jugar"
+    items:
+      - {text: "Restaura las licencias", sub: "PS5: Ajustes › Usuarios y cuentas › Otros › Restaurar licencias"}
+      - {text: "Revisa tu consola principal", sub: "PS5: compartir consola y jugar sin conexión · Xbox: Mi Xbox principal"}
+      - {text: "Fecha y hora automáticas", sub: "Y comprueba el estado de PlayStation Network o Xbox"}
+    say:
+      - "Y si el juego directamente no te deja entrar y te pide comprarlo, aunque ya lo tengas, el problema suele ser de licencia."
+      - "Restaura las licencias. En PS5 está en Ajustes, Usuarios y cuentas, Otros, Restaurar licencias."
+      - "Si compraste el juego con tu cuenta pero juegas en otra consola, actívala como principal. En PS5 es compartir consola y jugar sin conexión, y en Xbox, Mi Xbox principal."
+      - "Y revisa que la fecha y la hora estén en automático, y que PlayStation Network o los servicios de Xbox funcionen con normalidad."
+  - type: quote
+    chapter: "¿Dónde está el online?"
+    label: "¿Y el online?"
+    text: "No es un fallo: GTA 6 ha salido sin modo online."
+    detail: "Rockstar lo presenta como una experiencia para un jugador · el online aún no tiene fecha"
+    color: [40, 230, 255]
+    say:
+      - "Y una pregunta que nos están haciendo mucho: ¿dónde está el modo online? No lo busques, no es un fallo. GTA 6 ha salido como una experiencia para un jugador, y Rockstar todavía no ha dado fecha para su parte online."
+      - "Para que te hagas una idea, con GTA V el online llegó dos semanas después del juego. Esta vez no hay nada anunciado, así que toca esperar noticias oficiales."
+  - type: outro
+    chapter: "Final"
+    title: "¿Ya te funciona?"
+    next: "¿Cuánto pesa GTA 6? Espacio exacto y cómo liberar sitio"
+    say:
+      - "Y eso es todo. Si ya te funciona, a disfrutar de Leonida."
+      - "Si te ha servido, suscríbete: en cuanto salga un parche nuevo, te cuento qué arregla."
+      - "Y si te falla otra cosa, déjame en comentarios tu consola y el código de error."
